@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asarmir
 - 👀 I’m interested in python, lua, javascript, java and gdscript.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently practicing automation testing with python.
 - 📫 How to reach me randallhagin@gmail.com
 
 <!---
